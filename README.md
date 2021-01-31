@@ -1,5 +1,5 @@
 ## LGTM Badge
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/cricketbackground/express-uuid-generator-example.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/cricketbackground/express-uuid-generator-example/alerts/)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/cricketbackground/react-uuid-generator-example.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/cricketbackground/react-uuid-generator-example/alerts/)
 
 # Getting Started with Create React App
 
