@@ -1,3 +1,6 @@
+## LGTM Badge
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/cricketbackground/express-uuid-generator-example.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/cricketbackground/express-uuid-generator-example/alerts/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
