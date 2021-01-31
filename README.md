@@ -1,6 +1,9 @@
 ## LGTM Badge
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/cricketbackground/react-uuid-generator-example.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/cricketbackground/react-uuid-generator-example/alerts/)
 
+## Code Quality
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/cricketbackground/react-uuid-generator-example.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/cricketbackground/react-uuid-generator-example/context:javascript)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
