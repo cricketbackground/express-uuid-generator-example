@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+import React from 'react'
+import uuid from 'react-uuid'
 
 function App() {
   return (
@@ -8,6 +10,9 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
+        </p>
+        <p>
+          Here is a UUID: {uuid()}
         </p>
         <a
           className="App-link"
